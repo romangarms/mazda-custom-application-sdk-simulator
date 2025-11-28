@@ -1,6 +1,6 @@
 # Simulator for Custom Applications SDK 
 
-Updated by [Roman Garms](https://github.com/Romano-Garmez) to be buildable in 2024. 
+Updated by [Roman Garms](https://github.com/romangarms) to be buildable in 2024. 
 
 Fixes include:
 - Reload applications option now works
